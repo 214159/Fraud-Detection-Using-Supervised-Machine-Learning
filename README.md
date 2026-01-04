@@ -62,5 +62,3 @@ Random Forest outperforms Logistic Regression in this project, achieving perfect
 - Explore more feature engineering for better fraud detection accuracy.
 
 ---
-
-## 📂 Repository Structure
