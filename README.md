@@ -1,7 +1,7 @@
 # 💳 Fraud Detection using Supervised Machine Learning
 
 ## 📌 Project Overview
-Credit card fraud detection is a high-risk, low-frequency problem where fraudulent transactions form a very small percentage of total activity. Missing even a single fraud can lead to significant financial loss, while excessive false alerts can harm customer trust.
+fraud detection is a high-risk, low-frequency problem where fraudulent transactions form a very small percentage of total activity. Missing even a single fraud can lead to significant financial loss, while excessive false alerts can harm customer trust.
 
 This project simulates realistic transaction behavior using synthetic data and applies supervised machine learning models to detect fraudulent transactions under extreme class imbalance, focusing on recall, precision, and business impact rather than misleading accuracy alone.
 
